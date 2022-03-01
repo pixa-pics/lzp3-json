@@ -1,0 +1,29 @@
+{
+  "author": "Matias Affolter",
+  "name": "lzp3-json",
+  "description": "JavaScript LZP3 implementation to efficiently compress JS objects into Blob that store very fast.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/pixa-pics/lzp3-json/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pixa-pics/lzp3-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pixa-pics/lzp3-json/issues"
+  },
+  "bin": {
+    "index.js": "index.js"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "license": "MIT",
+  "keywords": [
+    "lzp3",
+    "json",
+    "blob",
+    "storage",
+    "worker",
+    "compression",
+    "decompression"
+  ]
+}
